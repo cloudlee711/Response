@@ -8,7 +8,7 @@ ALIU: J. Tu, X. Tang, S. Gu, Y. Dai, R. Fan, and C. Hou, “Adaptive learning in
 
 ALDN: S. Gu, C. Xu, D. Hu, , and C. Hou, “Adaptive learning for dynamic features and noisy labels,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 47, no. 2, pp. 1219–1237, 2025.
 
-To test the learned network, we do a retrieval experiment in which we use one modality input to get outputs from the other modalities. For instance, when inputting an apple image, we expect to output the word "apple" and the taste of an apple; when inputting the word "sweet," we aim to output the sweet taste in the taste channel. Table 1 shows the results of the experiments. Our method gets the highest accuracy. \textbf{Task V} in Table 1 means we use visual input to get auditory and taste outputs. \textbf{Task A} means using auditory input to get visual and taste outputs, and \textbf{Task T} is defined similarly.
+To test the learned network, we do a retrieval experiment in which we use one modality input to get outputs from the other modalities. For instance, when inputting an apple image, we expect to output the word "apple" and the taste of an apple; when inputting the word "sweet," we aim to output the sweet taste in the taste channel. Table 1 shows the results of the experiments. Our method gets the highest accuracy. Task V in Table 1 means we use visual input to get auditory and taste outputs. Task A means using auditory input to get visual and taste outputs, and Task T is defined similarly.
 
 
 Update rule:
