@@ -14,3 +14,9 @@ To test the learned network, we do a retrieval experiment in which we use one mo
 Update rule:
 
 <img width="1201" height="255" alt="Guassian" src="https://github.com/user-attachments/assets/1d6c33bb-7bfa-49af-ba74-8b342147a415" />
+
+
+Variations of network architecture and connection parameters with channel expansion:
+
+<img width="1758" height="694" alt="Integrator" src="https://github.com/user-attachments/assets/7f6a449c-004a-47c8-9f92-62981128dbc3" />
+Change of a substructure of the network which represents concept pear and strawberry. The icons and vectors next to the neurons (circles) represent objects which the neurons maximally respond to.
