@@ -10,7 +10,6 @@ ALDN: S. Gu, C. Xu, D. Hu, , and C. Hou, “Adaptive learning for dynamic featur
 
 To test the learned network, we do a retrieval experiment in which we use one modality input to get outputs from the other modalities. For instance, when inputting an apple image, we expect to output the word "apple" and the taste of an apple; when inputting the word "sweet," we aim to output the sweet taste in the taste channel. Table 1 shows the results of the experiments. Our method gets the highest accuracy. Task V in Table 1 means we use visual input to get auditory and taste outputs. Task A means using auditory input to get visual and taste outputs, and Task T is defined similarly.
 
-
 Update rule:
 
 <img width="1201" height="255" alt="Guassian" src="https://github.com/user-attachments/assets/1d6c33bb-7bfa-49af-ba74-8b342147a415" />
